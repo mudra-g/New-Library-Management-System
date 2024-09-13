@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1647316088 source:c:\users\adones\downloads\c++ project\librarymanagementsystem-c++\main.cpp
+	<iostream>
+	<winsock.h>
+	<windows.h>
+	<sstream>
+	<ctime>
+	<string>
+	<mysql.h>
+	<cstring>
+	<conio.h>
+	<cstring>
+	<map>
+
+1726219425 source:c:\users\singmank\desktop\librarymanagementsystem-c++\main.cpp
+	<iostream>
+	<winsock.h>
+	<windows.h>
+	<sstream>
+	<ctime>
+	<string>
+	<mysql.h>
+	<cstring>
+	<conio.h>
+	<cstring>
+	<map>
+	<limits>
+
